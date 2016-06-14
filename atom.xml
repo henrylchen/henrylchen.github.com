@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>勝 科學</title>
+  <subtitle>科研狗的日常</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-06-14T10:05:19.424Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Sheng Chens</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/06/14/Hello-World/"/>
+    <id>http://yoursite.com/2016/06/14/Hello-World/</id>
+    <published>2016-06-14T10:00:59.000Z</published>
+    <updated>2016-06-14T10:05:19.424Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello World!&lt;/strong&gt;&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Hello-World&quot;&gt;&lt;a href=&quot;#Hello-World&quot; class=&quot;headerlink&quot; title=&quot;Hello World!&quot;&gt;&lt;/a&gt;&lt;strong&gt;Hello World!&lt;/strong&gt;&lt;/h2&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
